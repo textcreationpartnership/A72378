@@ -1,0 +1,515 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine godly, and most necessarie annotations vpon the thirteenth chapter to the Romanes: set forth by the right vigilant pastor: Iohn Hoper, by Gods calling, Bishop of Gloucester.</title>
+            <title>Godly and most necessary annotations in ye .xiii. chapyter too the Romaynes</title>
+            <author>Hooper, John, d. 1555.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1583</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72378</idno>
+            <idno type="STC">STC 13756.5</idno>
+            <idno type="STC">ESTC S124475</idno>
+            <idno type="EEBO-CITATION">99900559</idno>
+            <idno type="PROQUEST">99900559</idno>
+            <idno type="VID">173575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2067:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine godly, and most necessarie annotations vpon the thirteenth chapter to the Romanes: set forth by the right vigilant pastor: Iohn Hoper, by Gods calling, Bishop of Gloucester.</title>
+                  <title>Godly and most necessary annotations in ye .xiii. chapyter too the Romaynes</title>
+                  <author>Hooper, John, d. 1555.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Walde-graue, dwelling without Temple-barre, neere vnto Sommer-set House,</publisher>
+                  <pubPlace>At Londn [sic] :</pubPlace>
+                  <date>1583.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Previous edition G̀odly and most necessary annotations in ye .xiii chapyter too the Romanes ̀(Worcester, 1551).</note>
+                  <note>Signatures: A-C.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XIII --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173575:1"/>
+            <pb facs="tcp:173575:1"/>
+            <p>CERTAINE GOD<g ref="char:EOLhyphen"/>LY, <hi>AND MOST</hi> neceſſarie Annotations: <hi>vp<g ref="char:EOLhyphen"/>pon the thirteenth Chapter</hi> to the Romanes: ſet forth by the right vigilant <hi>Pastor:</hi> Iohn Hoper, <hi>by Gods calling, Bishop</hi> of Glouceſter.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <head>GOD IS MY HELPE</head>
+               <q>GOD IS MY HELPE.
+<bibl>Pſal. 7.11.</bibl>
+               </q>
+            </figure>
+            <p>AT LONDN; <hi>Printed by Robert Walde-graue, dwelling</hi> without Temple-barre, neere vnto Som<g ref="char:EOLhyphen"/>mer-ſet Houſe. 1583.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173575:2"/>
+            <pb facs="tcp:173575:2"/>
+            <head>
+               <hi>To my very louing, and deare beloued ſel<g ref="char:EOLhyphen"/>lowlaborers</hi> in the word of God, &amp; brethren in Chriſt, VVILLIAM IENINS, Dean of the Cathedrall Church in Gloceſter, IOHN VVILLIAMS, Doctor of the law, and chan<g ref="char:EOLhyphen"/>cellour, and to the reſt of al the church apoin<g ref="char:EOLhyphen"/>ted there to ſerue the liuing God, with all o<g ref="char:EOLhyphen"/>ther, Archdeacons, Officials, Deanes, Perſons Vicars and Curates, within this the Kinges Maieſties dioceſe of Gloceſter, grace, &amp; mer<g ref="char:EOLhyphen"/>cy from the Lorde euer liuing, in the bloud of Ieſus Chriſt, our onely Sauiour.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F THE DANGERS AND perils of S. Paules time, dearely beloued, miniſtred and gaue oc<g ref="char:EOLhyphen"/>caſion vnto him, for to feare of the loſſe of ſuch people as then were conuerted vnto the knowledge and vnder<g ref="char:EOLhyphen"/>ſtanding of Gods holy word, leaſt by negligence or corrupt doctrine of the Biſhops and paſtours, they might be ſeduced and brought into errous doubtleſſe the daungers of this our time, that be not onely to be feared, leaſt ſuch as knowe the truth, be by errour ſeduced and brought from the truth, or els by continuance in vngodly life, con<g ref="char:EOLhyphen"/>tinue in the truth in vaine: But alſo that the moſt part of people be yet ignoraunt and not conuer<g ref="char:EOLhyphen"/>ted vnto the truth, ſhould miniſter and giue occa<g ref="char:EOLhyphen"/>ſion
+<pb facs="tcp:173575:3"/>vnto vs a great deale more to bee vigilant and circumſpect: not onely to keepe thoſe in truth, to whom God hath reuealed it: But alſo to winne and conuert with all prayer, diligence, pre<g ref="char:EOLhyphen"/>ching, and other inſtruction, ſuch as yet be igno<g ref="char:EOLhyphen"/>rant and out of the way, vnto the truth and know<g ref="char:EOLunhyphen"/>ledge of Gods word. And ſo much the rather be<g ref="char:EOLhyphen"/>cauſe we ſee by experience, and alſo feele it in our ſelues, that the iuſt God is offended and angrie with our ſinnes, and will not be contented vvith theſe troubles, miſeries and croſſes, that already he layeth vpon vs, but doth doubtleſſe prepare &amp; make ready many more and more greenous. Our office therefore is to be diligent and circumſpect for the people of God, and now the hand of God being ſtretched foorth, to admoniſhe the flocke committed vnto our charges in time, leaſt they dye, and their bloud required at our handes. Cer<g ref="char:EOLhyphen"/>taine I am, that our ſinnes bee the onely cauſe, wherfore this moſt iuſt God is offended, and cer<g ref="char:EOLhyphen"/>taine we bee, that the onely waye and meanes to pleaſe and quiet him againe, is to leaue &amp; waſhe away our ſinnes. VVhat the ſinnes of the people be vvhere vvithall God is thus offended, you that haue the ouerſight of them, knovv or yee ought to know. I meane not to deſcend particularly to any ſinne, leaſt peraduenture I might ſeeme to be timereous and ouer hardy, to iudge more then I perfectly know: or els in naming ſuche ſinnes, as manye good ſimple people haue not hearde of, might rather learne to augment the euill they know, then to learne the good they know not. It is the duety of euery good paſtour and curate, di<g ref="char:EOLhyphen"/>ligently
+<pb facs="tcp:173575:3"/>to ſearch and knovv what vertue is moſt meet to be commended, and vvhat vice moſt to be reprehended in the Church that he ſerueth. I vvill leaue therefore the vnknovven euils vnto metro the ſheepheard of euery pariſhe, requiring him to marke the ſinnes of the people after, and by the eſtimation of Gods worde, and thereby to pender the condition of his people leaſt that he cauſe them and do the ſame him ſelfe, ſwallow a Camell, and be chooked vvith a flee: leape ouer a blocke, and ſtumble at a ſtraw. Before all things, ſee that the people know their commandements, and the vvorkes thereof, apertaining vnto God, in the firſt table, that they honour no vvrong not falſe God, nor yet the true God, a vvrong vvay: but as he hath commaunded him ſelfe, in the olde Teſtament, and the nevv. And alſo that they auoyde all ſuche ſinnes, faultes, and diſ<g ref="char:EOLhyphen"/>obedience, as bee contrary to the commaunde<g ref="char:EOLhyphen"/>mentes of God, in the ſecond table. And for a helpe vnto you, and alſo to the people in this be<g ref="char:EOLhyphen"/>halfe, I haue ſet forth here the 13. Chapter of S. Paule to the Romaines, vvhich intreateth of all the ſecond table, and duetie of a Chriſtian man, hovv he ſhould vſe him ſelfe vvith, and tovvardes all ſorts of people. Moſt heartily praying you, and alſo in Gods name, and the kings maieſties name commaund you, that as many as ſerueth any cure vvithin this Dioceſſe, that can not for lacke of learning or exerciſe, teach or preach him ſelfe to the people the like doctrine, that they doe euery day, reade vnto the people this 13. Chapter, as I haue here ſet it forth: that the people may learne
+<pb facs="tcp:173575:4"/>to knovve, loue, and feare the better the Kinges maieſtie, and other ſuch Maieſtrates as be by him appointed ouer the people. And all ſuch as God hath giuen grace of preaching vnto, in their Ser<g ref="char:EOLhyphen"/>mons, ſhall oftentimes inculcate and perſvvade this argument and rule of obedience vnto the people. And the cauſe vvhy, I haue vvritten in this chapter, more then an other, and thinke it ve<g ref="char:EOLhyphen"/>ry expedie<g ref="char:cmbAbbrStroke">̄</g>t to be now taught vnto the people, is the great &amp; dangerous offences and ſinnes of the richer ſort of people, and alſo of the poore, both in this ſhier, and alſo other the kings maieſties, in this realme. And certaine I am that both of them ſhall dye eternally, if they amend not. VVhere<g ref="char:EOLhyphen"/>fore to deliuer my ſoule I giue ſuch as bee com<g ref="char:EOLhyphen"/>mended by God and chokin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es maieſtie vnto my charge, vvarning of the iudgement and damnati<g ref="char:EOLhyphen"/>on to come before. The rich man ſo incrocheth, gathereth togeather, and obtayneth ſo much in<g ref="char:EOLhyphen"/>to his ovvne handes, that he alone poſſeſſeth the earth, liueth thereby, and his poore neighbours ready to dye for lacke, ſo that hee is brought into Tantalus paine, meat and drinke, cattell and corn inough of euery ſide of him, yet ſhall rather dye for laeke then that vnſatiable and neuer conten<g ref="char:EOLhyphen"/>ted, couetous perſons will price their goods ſo as poore men, their wiues and their children may be able to bye reaſonable penyworthes of Gods a<g ref="char:EOLhyphen"/>boundant plenty, and riches that he bringeth out of the earth. Theſe men except they repent, can<g ref="char:EOLhyphen"/>not bee ſaued, nor be partakers of the merites of Chriſtes paſſion. For God vvould the rich to giue vnto the poore, but our men that care neither for
+<pb facs="tcp:173575:4"/>God nor the Kings lavves, vvill neither giue nor ſell what ſoeuer neceſſitie do require. If they wold not care for Gods word, yet ſhould they haue re<g ref="char:EOLhyphen"/>ſpect to nature and to their countrie, though the poore man be not a rich man, yet is he a Chriſti<g ref="char:EOLhyphen"/>an, and thy country man, of whome nature and countryſhip requireth thee to haue compaſſion. The poore man partly prouoked by neceſſitie &amp; need, and partly of vnchriſtian hatred &amp; diſdaine he hath at his neighbours wealth and proſperitie, conſpireth, worketh, prouoketh, and deſireth by all meanes to oppreſſe and rob his richer neigh<g ref="char:EOLhyphen"/>bour, and will by force, ſtrength, treaſon; ſedition, commotion, aſſemblance, and gathering togea<g ref="char:EOLhyphen"/>ther of ſuch as he is him ſelfe, againſt Gods lawes, Gods ordinances, Magiſtrates, and ſuperiour po<g ref="char:EOLhyphen"/>wers, take away and vſurpe euery mans goods, he careth not how. Not remembring the iudgment and terrible damnation of God, for his ſo doing, and that it is his bounden duty to ſuffer and beare ſuch needes and neceſſities, as God layeth vppon vs for our ſinnes And that vpon paine of hell fire<g ref="char:punc">▪</g> no man ſhoulde reuenge his ovvne wronges, but commend him ſelfe to God, who can and vvill heare the prayers of the poore in their troubles and needes. And that they ſhould offer their ſup<g ref="char:EOLhyphen"/>plications to the kinges maieſtie, and to ſuch o<g ref="char:EOLhyphen"/>ther as be appointed for the redreſſe of ſuch op<g ref="char:EOLhyphen"/>preſſion and wronges: and not to take weapons, armour and force againſt God and his ordinan<g ref="char:EOLhyphen"/>ces. In caſe the Kings maieſtie and the reſt apoin<g ref="char:EOLhyphen"/>ted to ſee poore mens cauſes redreſſed, will not hearken to their clamour, doubtleſſe the ire and
+<pb facs="tcp:173575:5"/>vengeance of God will puniſh them, and ſo much the rather, if the people quietly and obediently commend their cauſes vnto him, the which it they do not, they periſh eternally. For there is no trai<g ref="char:EOLhyphen"/>tour nor ſeditious man can be ſaued, but obedie<g ref="char:cmbAbbrStroke">̄</g>t and quiet men ſhall inherite the kingdome of heauen, and ſuch as ſuffer wrong, and not ſuch as do wrong, or intend to reuenge by ſtrength, their owne wrongs. Therefore to keepe the people of this Dioceſſe from the diſpleaſure of God and their King, and my ſelfe from euerlaſting damna<g ref="char:EOLhyphen"/>tion. I require you moſt diligently to teach them this chapter euery weeke, one part of it, the Sater<g ref="char:EOLhyphen"/>day at euenſong: the other, the Sunday at the morning prayer, and the third part, the Sonday at euenſong. Thus fare ye all wel, and God giue vs grace al, well to diſcharge our offices commended vnto vs.</p>
+            <closer>
+               <signed>
+                  <hi>Yours with all my heart, Brother and fellow-preacher</hi>
+Iohn Glouceſter.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173575:5"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </seg>He office &amp; duty of a chri<g ref="char:EOLhyphen"/>stian man, is contained in two parts. The firste, that be vſe himſelfe aright and reuerently with God. The ſeconde, that hee vſe him comely and ho<g ref="char:EOLhyphen"/>nestly with man. In the Epistle to the Ro<g ref="char:EOLhyphen"/>mans from the beginning S. Paul hath ful<g ref="char:EOLhyphen"/>ly and ſufficiently declared the duty and office of man, towards God: towardes the end, he declareth how we may honestly do our duties towards men. Both theſe offices must diligently be knowne and exerciſed. And becauſe a ciuil &amp; outward life, ſeeme it neuer ſo honest, is meere and very hipo<g ref="char:EOLhyphen"/>criſie, and can not pleaſe God, except the mind and ſoule inwardly bee well affected towards him: I thinke it conuenient brief<g ref="char:EOLhyphen"/>ly to declare wherein S, Paul in this epi<g ref="char:EOLhyphen"/>stle doth put the religion of the heart of man, towardes God: and then we ſhall the better deſcende vnto ſuch dueties and of<g ref="char:EOLhyphen"/>fices, as appertaineth to all maner of per<g ref="char:EOLhyphen"/>ſons as well publique as priuate.</p>
+            <p>First, S. Paule perceiueth that the grace and promiſes of God cannot be knowne of man, vntil ſuch time as he be brought to
+<pb facs="tcp:173575:6"/>acknowledge and diſpleaſure of his ſinnes. The Phiſition &amp; Phiſicke be vnprofitable vnto ſuch as know not that they be ſicke, as Christ ſayd,
+<note place="margin">
+                  <hi>Math. 9.</hi>
+               </note> I came not to cal the i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, but ſinners to repentaunce. Therefore we must know the wound of our ſoules, and the ſickeneſſe of ſinne, before we can get a<g ref="char:EOLhyphen"/>ny profit by the grace of God. We must confeſſe that all men and women, except Christ, are borne the children of yre and of Gods diſpleaſure, and that we beare a<g ref="char:EOLhyphen"/>bout in vs ſynne, that alwayes repugneth the ſpirit, wherby we are acertayned that we be always ſubiect vnto ſynn as S.
+<note place="margin">
+                  <hi>Rom. 11.</hi>
+               </note> Paul ſayth, be concludeth al men vnder ſynne, becauſe he might haue mercy vpon al. Se<g ref="char:EOLhyphen"/>ing we are all ſynners and the rewarde of ſynne,
+<note place="margin">
+                  <hi>Rom. 6. Ephe. 2.</hi>
+               </note> S. Paules concluſion where be ſayth, we are borne all the children of Gods diſpleaſure, is true. How then may we be deliuered from this great yre and diſpleaſure?
+<note place="margin">
+                  <hi>1. Ioh. 4. Rom. 5.</hi>
+               </note> By the mercye of God the fa<g ref="char:EOLhyphen"/>ther towards vs, that first loued vs, or we loued him, whiles we were yet his enemies But what is that, wherewith all we may be annexed and reconciled vnto God by his mercy, when there is no good thing in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,
+<pb facs="tcp:173575:6"/>but all filthy &amp; ſinful? It is Ieſus Christ, the ſon of God, most dere beloued, in whom the father is conte<g ref="char:cmbAbbrStroke">̄</g>ted, &amp; by who<g ref="char:cmbAbbrStroke">̄</g> he is reco<g ref="char:cmbAbbrStroke">̄</g> ciled vnto al ſinners that repent &amp; beleue his promiſes,
+<note place="margin">
+                  <hi>Mat. 3.17. Ephe. 12. Col. 1.2. Rom. 8. Phil. 2.</hi>
+               </note> for the merites &amp; ſheding of Christs bloud, his dere beloued ſonne. After that, we ſee and perceiue ſo great a mercy &amp; pitty of our heauenly father, that wold not fauour nor ſpare his only ſonne, to dye for our redempio, but gaue him to the most cruel &amp; vile death of the croſse forvs, how ſhould not we trust to ſo merciful a father in al our troubles &amp; aduerſityes, whether they be of body or ſoul? Why ſhould we not cal onely vpon ſo merciful a God.
+<note place="margin">
+                  <hi>Mat 11.</hi>
+               </note> If we do thus amend our liues, beleeue his promiſes and study a better lyfe,
+<note place="margin">
+                  <hi>Luk. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> we ſhall not one<g ref="char:EOLhyphen"/>lie be ſaued by his mercy, but alſo glad to ſerue him, and walke before him in inno<g ref="char:EOLhyphen"/>cency &amp; purenes of life: &amp; alſo obediently &amp; quietly in the world, giue reuerence and loue to all perſons accordingly to whom? honor, honor: to whom loue, loue: to whom? iustice, iustce: to whom mercy, mercy. Vn<g ref="char:EOLhyphen"/>to this christian <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uietnes, reuerence, loue and feare, doth at the ſcripture exhort vs, &amp; cheefly this preſent <hi>13.</hi> chap. to the Ro.
+<pb facs="tcp:173575:7"/>For the vnderstanding wherof the better I note at the beginning a certaine diuer<g ref="char:EOLhyphen"/>ſitie and difference of perſons. There be, and euer hath bene ſome publique perſons and ſome priuate perſons. Publique per<g ref="char:EOLhyphen"/>ſons, be thoſe that beare any office, rule, re giment or dominion, in a common wealth: as a king with all his iustices, Maiors, Sheriffes, Baliffes, Constables, and other. Priuate perſons, be ſuch as be ſubiectes, &amp; vnder theſe officers. Theſe two perſons must be diuerſly vſed, &amp; the duety that is due vnto the one is not due vnto the other in ciuill reſpectes. And ſeeing we must liue with both theſe perſons and states apoin<g ref="char:EOLhyphen"/>ted to be in the world by almighty God. S. Paul in this Chapiter is very diligent to teach &amp; instruct vs how we ſhould liue accordingly in truth and honesty towards them both.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:173575:7"/>
+            <head>The diuiſion of the Chapter.</head>
+            <list>
+               <item>Partes. 1 VVhy the ſuperiour powers ſhould be obeyed.</item>
+               <item>Partes. 2 How we be debters of loue to the publique perſon and Magiſtrate, and to the priuate perſon that is a ſubiect, indif<g ref="char:EOLhyphen"/>ferently.</item>
+               <item>Partes. 3 Containeth an exhortation to innocencie and honeſtie of life, that the truth being once knowne and receiued, euery man ſhould abſtaine and kepe him ſelfe from filthineſſe and vncleane life.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <p>The firſt part, concerning the obedience of the Ma<g ref="char:EOLhyphen"/>giſtrates.</p>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Let euery ſoul ſubmit himſelfe vnto the aucthority of the higher powers.</q>
+               </epigraph>
+               <p>
+                  <seg rend="decorInit">S</seg>Aint <hi>Paul</hi> pronoun<g ref="char:EOLhyphen"/>ceth generally, that euery ſoule: that is to ſaye, euerye man ſhoulde be obedient vnto the higher po<g ref="char:EOLhyphen"/>wer, in a kingdome and monarchie, where one is appoin<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:173575:8"/>to rule all the ſubiects of the ſame realme, are bounde to obey the King appointed by God, of what condition, ſtate or degree, ſoeuer they bee, as the king himſelfe, is bounde to bee obedi<g ref="char:EOLhyphen"/>ent vnto the lawe, and vnto God, where as the laws be not contrary to the lawe of God and the lawe of na<g ref="char:EOLhyphen"/>ture. And here is no exception to bee made. No man in a kingdome is or oughte to bee priuiledged or exempt from the obedience of the king, which is the higher power. And the eccleſiaſ<g ref="char:EOLhyphen"/>ticall lawes, that doe exempt and pri<g ref="char:EOLhyphen"/>uiledge any ſpirituall (as they be cal<g ref="char:EOLhyphen"/>led) or temporall perſon from this ge<g ref="char:EOLhyphen"/>nerall rule. Euery man be obedient to the higher power, is damnable and hereticall: manifeſtly condemned by the word of God. For Chriſte and his Apoſtles payde tribute,
+<note place="margin">
+                     <hi>Mat. 17.22. Rom. 13.</hi>
+                  </note> and other du<g ref="char:EOLhyphen"/>ties vnſo the Higher powers of the earth.</p>
+               <p>And the powers that heere S. <hi>Paule</hi> ſpeaketh of, be not onely Kings &amp; em<g ref="char:EOLhyphen"/>perors, but alſo ſuch as be appointed to any publique office and common
+<pb facs="tcp:173575:8"/>regiment, eyther for a King, where as is a Kingdome, or in the place of a King, where as the ſtate of the common wealth is no monarchie, but a rule and dominion, commended to many. To all theſe S. <hi>Paule</hi> com<g ref="char:EOLhyphen"/>mandeth obedience, honor, reuerence, and loue to be borne. And this is ſpe<g ref="char:EOLhyphen"/>cially to be noted in S <hi>Paule,</hi> that he ſayth ſimply and plainely, we ſhould obey the higher powers to confute, argue, and reprehend thoſe that cloak and excuſe their inobedience, cyther for the age of the rulers, or els for conditions and maners of the rulers. And that age diſchargeth no man for inobedience, the worde of God decla<g ref="char:EOLhyphen"/>reth, how that hee was preſent to helpe yong kings,
+<note place="margin">
+                     <hi>2. Chro. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </note> and to defend them in their vnder age, as it is to bee ſeene by king <hi>Ioſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as.</hi> Alſo God pu<g ref="char:EOLhyphen"/>niſheth young Kinges as often as they walke not after his worde, as it is to bee ſeene by <hi>Iehoiacim,</hi>
+                  <note place="margin">
+                     <hi>1. Chro. 36.</hi>
+                  </note> that was crowned in the eight yeare of his age, and within three monethes and Tenne dayes, for the Synnes
+<pb facs="tcp:173575:9"/>he committed before God: he was ta<g ref="char:EOLhyphen"/>ken priſoner by <hi>Nabuchadnezer.</hi> Euen ſo was <hi>Manaſſes</hi> beeing of 12. yeares of age. Neither doth the maners and condition of the Magiſtrates excuſe our inobedience thogh they be naught For <hi>Paule</hi> biddeth vs looke vppon the power and ancthoritie of the higher powers: and not vpon their maners.
+<note place="margin">
+                     <hi>1. Pet. 2.</hi>
+                  </note> * And <hi>S. Peter</hi> commaundeth the ſer<g ref="char:EOLhyphen"/>uauntes to obey their Maſters though they be euil. So <hi>Ioſeph</hi> obeid <hi>Pharaoh,</hi> and Chriſt our ſauiour <hi>Pilate, S. Paule,</hi> the emperours of <hi>Rome, Caligula</hi> and <hi>Nero.</hi> And when <hi>S. Paule</hi> commaun<g ref="char:EOLhyphen"/>deth vs to be obedient, he meaneth not onely we ſhoulde ſpeake reuerently and honorably of the higher power, or make curteſie vnto him, but to obey the lawes ſet foorth by the powers, ex<g ref="char:EOLhyphen"/>cept they commaund thinges againſt gods laws:
+<note place="margin">
+                     <hi>Act. 5.</hi>
+                  </note> then muſt * we obey more God then men, and yet not to ſtriue and fight with the Magiſtrates: but ſuffer patiently death rather then to offend God: or els our obedience is no thing but hipocriſie and diſſimulati<g ref="char:EOLhyphen"/>on.
+<pb facs="tcp:173575:9"/>Who wold accept his own childs making of curteſie, when all his facts be contrary to his commaundement? What maſter woulde bee content, or thinke his ſeruaunt did his duety in putting of his Cap, and in his doing contemneth all his maiſters lawes and commaundements? The lawes of a Magiſtrate be of two conditions and ſorts: eyther they concerne God or man. If they concerne or apper<g ref="char:EOLhyphen"/>taine to God, either they be according to the word of God, or contrary to the word of God. If they be according to the word of God, of neceſſity and bon<g ref="char:EOLhyphen"/>dage, vpon paine of damnation, they muſt be obeyed. If they be repugnant to the word of God, they ſhoulde not be obeyed. Yet rather ſhoulde a man ſuffer death, then to defend him ſelfe by force and violent reſiſting of the ſuperiour powers, as Chriſte, his A<g ref="char:EOLhyphen"/>poſtles, and the Prophets did.</p>
+               <p>If the lawes concerne and apper<g ref="char:EOLhyphen"/>taine vnto man, and vnto things Ci<g ref="char:EOLhyphen"/>uill, they muſt ſimply without excep<g ref="char:EOLhyphen"/>tion be obeyed, except they repugne,
+<pb facs="tcp:173575:10"/>and be contrary to the law of nature.
+<note place="margin">
+                     <hi>Exod. 1.</hi>
+                  </note> As <hi>Pharaohs</hi> lawes and commaunde<g ref="char:EOLhyphen"/>mentes was to the Midwiues, that they ſhoulde haue killed all the men children, that the women of Iſralites brought foorth. Seeing Sainte <hi>Paul</hi> commandeth vs to giue obedience vn<g ref="char:EOLhyphen"/>to the higher powers, howe muche be theſe men worthy hell fire, that reſiſt them both with hand, hart, and tong.
+<note place="margin">
+                     <hi>Exod. 22.</hi>
+                  </note> In y<hi rend="sup">e</hi> book of <hi>Exodus</hi> the people is com<g ref="char:EOLhyphen"/>manded not too ſpeake euil of y<hi rend="sup">e</hi> higher powers, read y<hi rend="sup">t</hi> place, &amp; learn to deteſt &amp; abhor thoſe runagats that euery i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tauern and taphouſe, ſpew oute their blaſphemous and traiterous talks,
+<note place="margin">
+                     <hi>Exod. 23.22.</hi>
+                  </note> a<g ref="char:EOLhyphen"/>gainſt the magiſtrates, when they ſhold rather look vpo<g ref="char:cmbAbbrStroke">̄</g> their own fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts &amp; ſtudie to amend them. And alſo pray God to do theſame in the Magiſtrats, that it might pleaſe him of his greate mercye, to amende and redreſſe all thinges that be amiſſe.</p>
+               <p>After that <hi>S. Paul</hi> hath generally co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mmanded al men to be obedient to the higher powers, he ſheweth the cauſes wherefore they ſhould be obeyed,</p>
+            </div>
+            <div type="verse_excerpt">
+               <pb facs="tcp:173575:10" rendition="simple:additions"/>
+               <head>The text</head>
+               <epigraph>
+                  <q>For there is no power (ſaith he) but of God The powers that bee, are ordeyned of God. Whoſoeuer therfore reſisteth pow<g ref="char:EOLhyphen"/>er, reſisteth the ordinances of God.</q>
+               </epigraph>
+               <p>BEcauſe that naturally there is in euerye man a certaine deſire of libertye, and to liue withoute ſub<g ref="char:EOLhyphen"/>iection, and all maner of lawes, ex<g ref="char:EOLhyphen"/>cept ſuche as pleaſe him ſelfe, Sainte <hi>Paule</hi> is not content generally to ex<g ref="char:EOLhyphen"/>hort and commaund all men to obedi<g ref="char:EOLhyphen"/>ence of the higher powers, but giueth many greate and waighty cauſes, wherefore men ſhoulde bee obedient and in ſubiection vnto them.</p>
+               <p>The firſt is, becauſe the office of a Magiſtrate, is the ordinaunce of God: and ſeeing all the ordinaunces and powers of God, are to be obeyed, ne<g ref="char:EOLhyphen"/>ceſſarely it followeth, that with out al tergiuerſation, hipocriſie, and collu<g ref="char:EOLhyphen"/>ſion, the Magiſtrate muſt be obeyed, except we will ſay in ſome reſpectes, God is is not to bee obeyed, And of this reaſon of Saint <hi>Paule,</hi> wee muſte uote, Firſte the dignitie and
+<pb facs="tcp:173575:11"/>honour of a publique perſon, that his office and place is the ordinance and appointment of God. And therefore the Magiſtrats be called Gods in the holy ſcripture.
+<note place="margin">
+                     <hi>Exod. 22. Pſal. 82.</hi>
+                  </note> For no man can come to the office of a Magiſtrate, but by the permiſſion and ſufferance of God. Many times ſome perſons come vnto the place of a ruler, by falſe and pre<g ref="char:EOLhyphen"/>poſſerous meanes, as thoſe doe that for a priuate lucre, or priuate hatred to other, put vp them ſelues, and pull downe thoſe that God hath appointed But ſuch vngodly comming to ho<g ref="char:EOLhyphen"/>nour, God ſuffereth and appointeth for the ſinnes of the people, ſuch euill and diſſembling hiporrites to raigne. But let the King and Magiſtrate be as wicked as can be deuiſed &amp; thoght, yet is his office and place the ordi<g ref="char:EOLhyphen"/>nance and appointment of God, and therefore to be obeyed. And as it is the ſubiectes duety to obey them, ſo is it their duety to watch and be circum<g ref="char:EOLhyphen"/>ſpect, that they trouble nor vnquiet a<g ref="char:EOLhyphen"/>ny thing in their offices contrary to the word of God, whoſe officers they
+<pb facs="tcp:173575:11"/>be. In caſe they doe, although the ſub<g ref="char:EOLhyphen"/>iects may not, nor vpon paine of eter<g ref="char:EOLhyphen"/>nal damnation, oughtnot by force nor violence to reſiſt y<hi rend="sup">e</hi> officer in his high power, yet he ſhould, and is bound to thinke him ſelfe, that God can and will as wel reuenge the abuſe of his office in him, as puniſh the ſubiect for the diſobedience of his ordinaunces towards the higher power.</p>
+               <p>If it be true y<hi rend="sup">t</hi> S. Paul ſaith, the high<g ref="char:EOLhyphen"/>er power to be the ordinance of God, it is very damnable iniquitie, that for any priuate affection, or other vniuſt oppreſſions, for any man to depoſe the Magiſtrats from their places and ho<g ref="char:EOLhyphen"/>nor appointed by God, or els priuily or openly, craftely, or violently, to goe about to change or alter the ſtate and ordinance of God: and there withall God is ſore offended, as it doth apear by the grudging and murmuring of the people againſt <hi>Moſes,</hi> in y<hi rend="sup">e</hi> deſart,
+<note place="margin">Sam. 8.</note> the which thoughts and conſpiracies of the people, againſt their Magi<g ref="char:EOLhyphen"/>ſtrate and gouernour, the Lorde puniſhed with Death,
+<note place="margin">
+                     <hi>Num. 14.</hi>
+                  </note> and kylled
+<pb facs="tcp:173575:12"/>them all before they came to the land of <hi>Canaan.</hi> For euen as Kinges and Magiſtrates be appointed and orday<g ref="char:EOLhyphen"/>ned of God, euen ſo be they alſo defen<g ref="char:EOLhyphen"/>ded by him, as it appeareth by <hi>Dauid, Ioſaphat,</hi>
+                  <note place="margin">
+                     <hi>2. Sam. 17.18.</hi>
+                  </note> and other. And the ſedition and treaſon redounded alwaies to the deſtruction of the people at length, as is to be ſeene in <hi>Abſolon, Architophell, Catlime Brutus, Caſius,</hi> and other that deſtroyed not onely them ſelues, but alſo the people by ſuch treaſon and diſ<g ref="char:EOLhyphen"/>obedience againſt the ordinaunce and appointment of God: as yee may ſee here by the text of <hi>S. Paul</hi> that follow<g ref="char:EOLhyphen"/>eth, which is his ſecond cauſe why the higher powers ſhould be obeyed. And as he ſayd firſt, they ſhould be obeyed, becauſe their place and authoritie is the ordinaunce of God: ſo now in his ſecond cauſe he ſheweth, what great daunger and perill it is, to reſiſt and diſobey Gods ordinaunces.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The text.</head>
+               <epigraph>
+                  <q>And they that reſist ſhall receiue to them ſelues damnation.</q>
+               </epigraph>
+               <p>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> though hee had ſayde, leaſt yee
+<pb facs="tcp:173575:12"/>ſhoulde thinke it a light thinge, but a trifling matter to withſtand and diſobey the Magiſtrates, vnderſtand ye that in your ſo doing ye withſtand and fight againſt God, and therefore yee prouoke iudgement and venge<g ref="char:EOLhyphen"/>aunce againſt your ſelues, and be cul<g ref="char:EOLhyphen"/>pable and gyltie of Gods euerlaſting diſpleaſure, if yee repent not, and giue ouer your obſtinate and diſobe<g ref="char:EOLhyphen"/>dient rebellion. Here Saint <hi>Paule</hi> hath ſet foorth the ende and ſucceſſe of ſedicion, Treaſon, conſpiracie, and re<g ref="char:EOLhyphen"/>bellion, to ſay, deſtruction both of bo<g ref="char:EOLhyphen"/>dy and ſoule. Who is able to contend and fight with God, and ouercome him? Is not he onely almighty; and onely ſtrength?</p>
+               <p>
+                  <hi>Abſolon</hi> with a thouſand traitours againſt one true ſubiect, preuailed not againſt his father <hi>Dauid,</hi> but dyed the death of a traitour. Euen ſo did thoſe whom before I named. And as ſaint <hi>Paule</hi> ſpeaketh here,
+<note place="margin">
+                     <hi>Mat. 26.</hi>
+                  </note> ſo ſpeaketh Chriſte to <hi>Peter.</hi> Hee that ſtryketh with the ſwoorde, ſhall periſhe by the ſwoorde, if Gods worde bee true
+<pb facs="tcp:173575:13"/>(as it can not be falſ) al ſuch as do by thought, word or deed, intend to trou<g ref="char:EOLhyphen"/>ble vnquiet change, aulter, moue or reſiſt the ordinauce of God, which is the Magiſtrates and higher powers, muſt needes of neceſſitie periſhe, as well in this world as in the world to come, except they repent, and ceaſe from doing of euil. Now goeth <hi>S. Paul</hi> fourth with the text.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>For rulers be not to be feared of ſuch as doe well, but of ſuch as do euill.</q>
+               </epigraph>
+               <p>BY theſe wordes <hi>S. Paule</hi> declareth two things. Firſt he warneth the Magiſtrate of his office, leaſt when he ſhal perceiue it to be the ordinance of God, and that no man ſhould more reſiſt and contrarye it, then to reſiſt and contrary God ſhould waxe arro<g ref="char:EOLhyphen"/>gant and proude, and beginne to fa<g ref="char:EOLhyphen"/>uour and flatter himſelfe to much vn<g ref="char:EOLhyphen"/>der the tittle and pretence of Gods power. But God forbid (ſayth ſaint <hi>Paule</hi>) that the Magiſtrate ſhoulde thinke any ſuch thing, he ſhoulde re<g ref="char:EOLhyphen"/>member rather that hee is appointed
+<pb facs="tcp:173575:13"/>to his place to defe<g ref="char:cmbAbbrStroke">̄</g>d, helpe, &amp; preſerue ſuch as be good, and puniſh ſuch as be nought &amp; euill. This commandement did God command to y<hi rend="sup">e</hi> higher powers in the commo<g ref="char:cmbAbbrStroke">̄</g> wealth of the <hi>Iſraelites,</hi> and that they ſhoulde not lift vp their hearts aboue their brothers,
+<note place="margin">
+                     <hi>Exod. 18. Num. 27. Deu. 1.16. and 17. 2. Par. 39. Pſal. 72.82.101.</hi>
+                  </note> but to vſe indifferencie &amp; iuſtice, with all indif<g ref="char:EOLhyphen"/>ferently, without exception of perſo<g ref="char:cmbAbbrStroke">̄</g>s: as ye may read in the holy ſcripture.</p>
+               <p>The ſecond part of <hi>S. Paules</hi> words commendeth the Magiſtrats for their vtilitie and commoditie in the com<g ref="char:EOLhyphen"/>mon wealth becauſe that by their au<g ref="char:EOLhyphen"/>thoritie euill doers among the people are puniſhed and corrected: that ho<g ref="char:EOLhyphen"/>neſt and true men maye liue in reſt and quietneſſe. And for this commo<g ref="char:EOLhyphen"/>ditie and neceſſary vſe we bee bound to obey them. For through their dili<g ref="char:EOLhyphen"/>gence, labour and paynes vnder God, we eate, heare the worde of God, la<g ref="char:EOLhyphen"/>bour, bring vp youth, houſehouldes be in quietneſſe, the goods thereof, with Cities, Townes, and Villages of the realme. Theſe commodities be great, and worthy of thankes, eſpecially to
+<pb facs="tcp:173575:14"/>God, and then to the higher power, Saint <hi>Paule</hi> followeth his purpoſe with theſe wordes,</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Wilt thou be without feare of the higher power? Do well then, and ſo ſhalt thou be prayſed of them,</q>
+               </epigraph>
+               <p>WHere as before he ſayd the high power was a feare to euill do<g ref="char:EOLhyphen"/>ers, in theſe wordes hee ſheweth, how men may be without feare of the Ma<g ref="char:EOLhyphen"/>giſtrates, to ſay, if men do wel, for wel doing pleaſeth Gods order, and Gods order beeing pleaſed, feareth not, nor puniſheth the wel doer. And whereas Saint <hi>Paule</hi> ſpeaketh of feare to the higher power, we muſte vnderſtand, that feare is of two ſortes, one is if loue and good will anexed, and knit with reuerence and loue, and this feare is onely in godly and vertuous men that delight to be ordred and ru<g ref="char:EOLhyphen"/>led after the order and appoyntment of God.</p>
+               <p>The other feare is annexed w<hi rend="sup">e</hi> ſpite, hatred, enuy, &amp; diſdain, y<hi rend="sup">e</hi> wiſheth ther were no order, law, nor Magiſtrates,
+<pb facs="tcp:173575:14"/>and thoſe that bee to deſtroy them, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to bring them out of credite and eſti<g ref="char:EOLhyphen"/>mation among the people. This feare is wicked and damnable, and a teſti<g ref="char:EOLhyphen"/>monie of an euill and curſed conſci<g ref="char:EOLhyphen"/>ence, and forbidden here in this place by S. <hi>Paule.</hi> Saint <hi>Paule</hi> continueth in the commendation of the Magi<g ref="char:EOLhyphen"/>ſtrates, ſaying,</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>For he is the Minister of God, for thy wealth.</q>
+               </epigraph>
+               <p>HEre Saint <hi>Paule</hi> addeth an other commendation of the higher pow<g ref="char:EOLhyphen"/>er, the which conſiſteth in two mem<g ref="char:EOLhyphen"/>bers, wherefore he ſhoulde be obeyed, The firſte is, becauſe he is the Mini<g ref="char:EOLhyphen"/>ſter of God. The ſecond, becauſe hee was inſtituted and appointed by God for the wealth and commoditie of the ſubiect. In this, that Saint <hi>Paule</hi> cal<g ref="char:EOLhyphen"/>leth him the Miniſter of God, he put<g ref="char:EOLhyphen"/>teth the ſubiect in minde againe, that who ſo euer contemne or diſobey the higher power,
+<note place="margin">
+                     <hi>Lu. c. 10.</hi>
+                  </note> contemneth and diſo<g ref="char:EOLhyphen"/>beyeth God. And ſo ſayth Chriſt, who ſo contemneth ſuch as I appoint and ſend, contemneth me. And the ſame
+<pb facs="tcp:173575:15"/>ſaide God vnto <hi>Moſes.</hi> They haue not caſt of thee, but mee. Alſo the magi<g ref="char:EOLhyphen"/>ſtrate there is warned to take heede, he doe nothing but as the miniſter of God, to rule and gouerne after his word.
+<note place="margin">
+                     <hi>Deu 17. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Cor. 4.</hi>
+                  </note> For this God requireth of him that he be a faithfull miniſter. And whenſoeuer hee begin to waxe lof<g ref="char:EOLhyphen"/>ty, hauty, arrogant and proude, let him remember S. <hi>Pauls</hi> wordes, that he is but a miniſter.</p>
+               <p>And where as S. <hi>Paul</hi> ſaith, the magiſtrate is ordeined for the wealth of the people: he muſt take heede of the end wher vnto he is appointed, &amp; be in need as God wold him to be, a wealth and ſaluation of the people, to defend iuſt cauſes and to condemne ſuch as be vniuſt, to remoue falſe and ſuper<g ref="char:EOLhyphen"/>ſticious religion, and to plant true and godly religion, to maintaine ſuch as profite the Churche and flocke of Chriſt, and to remoue ſuch as hinder and deceiue them. <hi>S. Paule</hi> now proſe<g ref="char:EOLhyphen"/>cutetd his matter, and ſheweth who ſhould feare the higher powers, with theſe wordes.</p>
+            </div>
+            <div type="verse_excerpt">
+               <pb facs="tcp:173575:15"/>
+               <head>The Text.</head>
+               <epigraph>
+                  <q>If thou do euill, then feare, for he beareth not a ſworde for nought: but hee is the minister of God, to take puniſhment of them that do euill.</q>
+               </epigraph>
+               <p>EUen as <hi>S. Paul</hi> ſaith here, that the cauſe of feare to an euill man, is that the Magiſtrate beareth a ſword: Euen ſo doth he declare that it is not inough for the Magiſtrate to beare a ſword, but to vſe &amp; execute the ſword, as the ſinnes of the people require, to puniſh and kil them, if the law ſo find them gyltie: and for feare of the vſe of the ſword, which is not in vaine, they ſhould keepe euill doers in obedience and feare, and ſo much the more, be<g ref="char:EOLhyphen"/>cauſe hee is the miniſter of God, and his puniſhment is the very hand and will of God, when he puniſheth euill doers. And it is not he that killeth, but God, whoſe place he occupieth, beeing a Magiſtrate and higher power. For God commandeth him to puniſh,
+<note place="margin">
+                     <hi>Exod. 23.22. Liuit. 19.20. Deu. 19.</hi>
+                  </note> and not to fauour ſuch euill and naughty perſons.</p>
+               <p>It is very diuiliſhnes to accuſe the Magiſtrates of euill doinges, when
+<pb facs="tcp:173575:16"/>they puniſh or put to death euil doers ſeing in their thie doing, they be none other but Gods Miniſters. And where as the ſcripture forbiddeth puniſhe<g ref="char:EOLhyphen"/>ment and reuenging, it meaneth that no priuate man ſhoulde reuenge his owne cauſe, nor fight at his pleaſure, but rather ſuffer wronges, if the law will not redreſſe it. And if the iudge and Magiſtrate in a cauſe of the law, for lucre, feare, loue, friendſhip, or a<g ref="char:EOLhyphen"/>ny other reſpect, kill any man that is not worthy by the law to die, the iudg and Magiſtrate is a very murtherer. And ſo he is, if hee ſaue any man that the lawe condemneth. For hee is as ſaint <hi>Paule</hi> ſaith, a Miniſter of God, who neuer ſaueth one, and condem<g ref="char:EOLhyphen"/>neth the other in like cauſes. Saint <hi>Paule</hi> when he hath ſufficiently deela<g ref="char:EOLhyphen"/>red the dignitie and honour of the higher power, gathereth by two ne<g ref="char:EOLhyphen"/>ceſſary cauſes more, y<hi rend="sup">t</hi> the Magiſtrate is to be obeyed with theſe wordes.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Wherefore yee must needes obey, not for feare of vengeaunce onely, but alſo be<g ref="char:EOLhyphen"/>cauſe of conſcience.</q>
+               </epigraph>
+               <pb facs="tcp:173575:16"/>
+               <p>THe one cauſe wherfore we muſt o<g ref="char:EOLhyphen"/>bey, is the feare of paine &amp; puniſh<g ref="char:EOLhyphen"/>ment, the which the Magiſtrate muſt miniſter by the commaandement of God, vnto all ſuch as diſobey and con<g ref="char:EOLhyphen"/>temne the ordinance of God. The o<g ref="char:EOLhyphen"/>ther is conſcience, for although the ma<g ref="char:EOLhyphen"/>giſtrat do not ſée nor know, how thou doeſt diſobey &amp; breake the order of God or els if thou couldeſt by power and ſtrength, ouercome the magiſtrates, yet thy conſcience is bound to obey, &amp; that for many cauſes. Firſt becauſe the magiſtrate is the ordinaunce of God, then becauſe diſobedience &amp; breaking of Gods law, troubleth the publique &amp; comon peace, &amp; giueth other ſtomack &amp; incouraging to diſobey. Al theſe euils followeth diſobedience, y<hi rend="sup">e</hi> which of con<g ref="char:EOLunhyphen"/>ſcie<g ref="char:cmbAbbrStroke">̄</g>ce we are bound to eſchew &amp; auoid. Ther be ſome ſo indurates paſt grace, y<hi rend="sup">e</hi> think themſelues not bound to obey this order and higher power, appoin<g ref="char:EOLhyphen"/>ted &amp; commanded of God: but doubtles thoſe ſhal periſh with their captains, as <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>phel</hi> did with his <hi>Abſolon.</hi>
+               </p>
+               <p>If the higher power commaund any
+<pb facs="tcp:173575:17"/>thing contrary vnto Gods word, they ſhoulde not be obeied. Notwithſtan<g ref="char:EOLhyphen"/>ding, there ſhoulde be ſuch modeſtie &amp; ſoberneſſe vſed, as ſhould be without all violence, force and rebellion. As <hi>Peter</hi> and <hi>Iohn</hi> vſed, ſaying. God is more to be obeyed then man. And ſo in ſaying of truth, they continued in the truth, without mouing of ſedition and ſuffred death for the truth, as <hi>Fa<g ref="char:EOLhyphen"/>bian</hi> and <hi>Ciprian,</hi> holy martyrs, and re<g ref="char:EOLhyphen"/>cordes of God, ſuffered in <hi>Affrica,</hi> vn<g ref="char:EOLhyphen"/>der <hi>Decius</hi> the Emperor of <hi>Rome.</hi> How we are bound in conſcience to obey them. <hi>S. Paul</hi> declareth further, ſaying.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>And euen for this cauſe pay yee tribute, for they are Gods ministers appoynted to the ſame purpoſe.</q>
+               </epigraph>
+               <p>IF we were not bound in conſcience to obey them, we ſhould not need to pay tribute vnto them, but ſeeing we ought to pay tribute, Taxes and ſub<g ref="char:EOLhyphen"/>ſidies we know they doe defend vs a<g ref="char:EOLhyphen"/>gainſt al force, violence, and wronges of our ennemies. Therfore tribute is a note and knowledge of our obedi<g ref="char:EOLhyphen"/>ence, which we muſt pay willingly <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:173575:17"/>gladly of duety as Chriſt ſayth, giue vnto God, y<hi rend="sup">e</hi> which is Gods, and to the emperor, that which is the emperors.</p>
+               <p>
+                  <hi>S. Paule</hi> ſheweth the cauſe why tri<g ref="char:EOLhyphen"/>bute ought to be payed vnto the high<g ref="char:EOLhyphen"/>er powers, becauſe ſaith he, they be or<g ref="char:EOLhyphen"/>deyned of God, to preſerue and defend the common wealth, in peace and qui<g ref="char:EOLhyphen"/>etnes: to puniſh the euil and to defend the good. And without the magiſtrates helpe this can not be done, as yee may read, in the booke of y<hi rend="sup">e</hi> 
+                  <hi>Iudges,</hi> how the people fel into al miſchiefe, when they wanted a lawful Magiſtrate and ſu<g ref="char:EOLhyphen"/>periour power, and euery man did as it ſéemed beſt in his owne eyes. And in the Prophet <hi>Eſay,</hi>
+                  <note place="margin">
+                     <hi>Eſay. 3.</hi>
+                  </note> the Lord threat<g ref="char:EOLhyphen"/>neth the wicked <hi>Hieruſalem,</hi> becauſe there was none in it, worthy to beare rule. Eue<g ref="char:cmbAbbrStroke">̄</g> as ſubiectes be bound to obey this higher power, ſo muſt the higher power alway take heed that vertue &amp; good men be co<g ref="char:cmbAbbrStroke">̄</g>mended, and euil men with ſin and diſobedience puniſhed. Now followeth the ſecond part of the Chapter.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The text</head>
+               <epigraph>
+                  <q>Giue to euery man therfore his duety, tri<g ref="char:EOLhyphen"/>bute,
+<pb facs="tcp:173575:18"/>to whom tribute belongeth, Cu<g ref="char:EOLhyphen"/>stome, to whom custome is due: feare, to whom feare belongeth: honour, to whom honour pertayneth.</q>
+               </epigraph>
+               <p>WHen <hi>S. Paule</hi> hath ſufficiently told vs our dueties to the higher power, he deſcendeth from that parti<g ref="char:EOLhyphen"/>cularity, and one ſort of perſons to a generallitie, how we ſhould do our du<g ref="char:EOLhyphen"/>ties to al maner of perſons. Firſt gene<g ref="char:EOLunhyphen"/>rally he ſaith, we ſhoulde giue euerie man his due. Then numbreth he cer<g ref="char:EOLhyphen"/>taine kinds and particulers of duties. Tribute we owe to kings and Magi<g ref="char:EOLhyphen"/>ſtrats, y<hi rend="sup">t</hi> muſt we faithfully pay, or els the with holders commit theft, &amp; ther<g ref="char:EOLhyphen"/>fore Chriſt payed tribute.</p>
+               <p>Cuſtome is the reuenewes or pro<g ref="char:EOLhyphen"/>fites that commeth by land, or trade of Marchandiſe, and in this point, faith muſt bee kept to all men, ac<g ref="char:EOLhyphen"/>cording to the lawes appoynted by the higher power.</p>
+               <p>Feare is due vnto God, the King, to parentes, and to all other of whome we be holpe in body or Soule, and ſo is honour due likewiſe. Therefore
+<pb facs="tcp:173575:18"/>ſayth the lawe, feare God, honour the King, honour Father and Mother. &amp;c.
+<note place="margin">
+                     <hi>1. Pet. 2. Exod. 20.</hi>
+                  </note> Ariſe to a hoare hed. Saint <hi>Paul</hi> bre<g ref="char:EOLhyphen"/>keth his diſputation of duetyes, and will tary no longer in the enumera<g ref="char:EOLhyphen"/>tion and numbring of the partes and particulars of duetyes, but prefereth altogether ſo charitie in this wiſe.</p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Owe nothing to any man, but to loue one the other.</q>
+               </epigraph>
+               <p>AS though he had ſayde, what nee<g ref="char:EOLhyphen"/>deth it to write much of dueties, contractes, of buyinge, lendings, and ſuch other lyke thinges? Let charitie be y<hi rend="sup">e</hi> rule of all theſe thinges, vnto y<hi rend="sup">e</hi> which, if the ſubiect ſubmit himſelf, he will vſe his higher power none o<g ref="char:EOLhyphen"/>therwiſe than he wold be vſed himſelf if he were an higher power: the high<g ref="char:EOLhyphen"/>er power, the ſubiect none otherwyſe then though hee were a ſubiect him ſelfe, what ſo euer thing agreeth with charitie is good. What ſo euer agre<g ref="char:EOLhyphen"/>eth not with Charitie, is euill. But many men can not tell what chari<g ref="char:EOLhyphen"/>tie is. And therefore it is no mar<g ref="char:EOLhyphen"/>naile thogh al their doings be againſt
+<pb facs="tcp:173575:19"/>charitie. Charitie is a feruent deſire &amp; earneſt ſtudy to do wel vnto al men, yea, euen with the hurt of him y<hi rend="sup">t</hi> doeth it, if neceſſity ſo requireth, as <hi>S, Paule</hi> teacheth. And <hi>S, Ihon</hi> ſaith, chriſt gaue his lyfe for vs, and we ought to giue ours, for our brothers. The effects, pro<g ref="char:EOLunhyphen"/>perties,
+<note place="margin">
+                     <hi>Phil. 2.</hi>
+                  </note> and conditions of this charity <hi>S, Paule</hi> ſheweth, and ſaith, Charitie ſuffereth,
+<note place="margin">
+                     <hi>1. Ioh. 3.</hi>
+                  </note> wil not do euill for euill, loo<g ref="char:EOLhyphen"/>keth not her owne profit, charity will not conſpire nor worke traiterouſly, but pray for them that perſecute her. Thus <hi>S, Paule</hi> declareth y<hi rend="sup">t</hi> we be debt<g ref="char:EOLhyphen"/>tours to keepe peace and quietneſſe a<g ref="char:EOLhyphen"/>mong our neighbours, and to do al me<g ref="char:cmbAbbrStroke">̄</g> good as long as we liue. Faith maketh vs frée before God in Chriſt Ieſu, cha<g ref="char:EOLhyphen"/>ritie maketh vs ſeruants to our neigh<g ref="char:EOLunhyphen"/>bours for the loue of Chriſt. <hi>S. Paule</hi> proueth by examples, that charitie ſhoulde be the rule of all our doinges with theſe words that follow.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>For hee that loueth another, fulfilleth the law. For theſe commaundementes, thou shalt not commit adultrie, thou shalt
+<pb facs="tcp:173575:19"/>not kill, thou shalt not steale, thou shalt not beare falſe witnes, thou shalt not de<g ref="char:EOLunhyphen"/>ſire and ſo forth, (if there be any other commaundement) they are all compre<g ref="char:EOLhyphen"/>hended in this ſaying, loue thy neigh<g ref="char:EOLhyphen"/>bour as thy ſelfe.</q>
+               </epigraph>
+               <p>A Wonderful commendation of cha<g ref="char:EOLhyphen"/>ritie, that who ſo obſerueth her, fulfilleth the whole law, meaning the law that appertayneth for the duety and offices to be done betwéene man, and man. And not that any man can ſatiſfie the law before God, ſauing on<g ref="char:EOLunhyphen"/>ly Chriſt: no, nor all partes towardes man: for no man loueth his neighbour ſo feruently, as the law of God requi<g ref="char:EOLhyphen"/>reth. Yet <hi>S, Paule</hi> ſaith we fulfil y<hi rend="sup">e</hi> law when we giue our ſelues earneſtly &amp; holy, as much as lieth in vs to work y<hi rend="sup">e</hi> law. And then our lack &amp; imperfectio<g ref="char:cmbAbbrStroke">̄</g>, ſhal be profited and accounted ful and ſufficient for Chriſtes ſake: he addeth yet an other co<g ref="char:cmbAbbrStroke">̄</g>mendation of charitie.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Loue hurteth not his neighbour.</q>
+               </epigraph>
+               <p>THat is to ſay: he that hath a Chri<g ref="char:EOLhyphen"/>ſtian
+<pb facs="tcp:173575:20"/>loue can not hurt his neighbour. By this rule men may know whither they haue charity, or not: for in caſe we deminiſh y<hi rend="sup">e</hi> goods of our neighbors, whether they be of his bodye or his ſoule, or els of his poſſeſſions, honour, place, or dignitie. Or if we increſe not theſe goods towards all me<g ref="char:cmbAbbrStroke">̄</g> if we may, there is no charity in vs. Or els, if we diminiſh not their euils and troubles, as we may, eyther if we doe the euils in any ſort by our ſelues, or by other, we haue no charitie in vs. By this rule we may now know, whether we loue our brothers, or not: and duly ex<g ref="char:EOLhyphen"/>amining our ſelues, we ſhall ſée how farre we be from charitie, and that it is an eaſie thing to ſpeake and talke of charitie, and a very harde matter, to practiſe and lead our liues according to charitie.</p>
+               <p>For if we had as much charitie as we profeſſe to hane, we ſhould ſatiſfie al the law, as S. <hi>Paule</hi> ſaith.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The text.</head>
+               <epigraph>
+                  <q>Therefore is loue the fulfilling of the law.</q>
+               </epigraph>
+               <p>MEaning by the lawe, the ſeco<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb facs="tcp:173575:20"/>table of the ten Commaundements, in the which is contayned the due<g ref="char:EOLhyphen"/>tye and office of euerye man, to all maner of perſons, of what condition ſoeuer they be. As for the law of the firſt table, which contayneth the reli<g ref="char:EOLhyphen"/>gion of God, feare, faith, loue, prayer, obedience, patience, right vſe of Sa<g ref="char:EOLhyphen"/>cramentes, with ſuch other as apper<g ref="char:EOLhyphen"/>tayneth onely vnto God, and be the fountayne and originall of all good workes. For here his argument and ſtate is to tell what men ſhoulde doe to men, and in the firſt table is decla<g ref="char:EOLhyphen"/>red what man ſhould doe to God, ful<g ref="char:EOLhyphen"/>ly and ſufficiently, theſe two former partes, ſufficiently declared by Saint <hi>Paul,</hi> he followeth with the third part of the chapter, which contayneth an exhortation vnto innocencie and ho<g ref="char:EOLhyphen"/>neſty of life.</p>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Becauſe we know the ſeaſon, how that it is time we ſhould awake now out of ſleepe.</q>
+               </epigraph>
+               <p>HItherto <hi>S. Paule</hi> hath taught how chriſtia<g ref="char:cmbAbbrStroke">̄</g> men ſhould behaue the<g ref="char:cmbAbbrStroke">̄</g> ſel<g ref="char:EOLhyphen"/>ues, not only towards y<hi rend="sup">e</hi> publik perſon
+<pb facs="tcp:173575:21"/>the King and Magiſtrate, whom they be bound to honor &amp; obey: but alſo to<g ref="char:EOLhyphen"/>wards priuate perſons, that beare no office who<g ref="char:cmbAbbrStroke">̄</g> they be bound to loue. And that the ſame obedience, to the higher power and loue towards al men, may the better preſerue &amp; continue, hee ad<g ref="char:EOLhyphen"/>deth now an exhortation to honeſt li<g ref="char:EOLhyphen"/>uing, and Godly conuerſation, which he taketh metaphorically, or by ſimi<g ref="char:EOLhyphen"/>litude of the time: ſaying, it is meete we ſhould liue honeſtly now, for it is time, meaning by the time the ſeaſon and time, wherin the grace of God in Chriſt Ieſu, is preached and opened to the world, y<hi rend="sup">e</hi> which ſhoulde not giue vs occaſion of wickednes and ſin: but rather wake vs out of our ſléepe, and to reare vs out of ſinne.</p>
+               <p>Here mark what the Apoſtle calleth ſleepe, and what to riſe and wake out of ſleepe. Sleepe is a ſtupor and dead<g ref="char:EOLhyphen"/>nes of the minde that reſteth, and is a ſléepe in euil and miſchiefe, and careth not for y<hi rend="sup">e</hi> law, nor wil of God, but wil follow religion of wil, phantaſies, ido<g ref="char:EOLhyphen"/>latrie, ſuperſtition, ignoraunce, and al
+<pb facs="tcp:173575:21"/>vngodly conuerſatio<g ref="char:cmbAbbrStroke">̄</g>, without al fear, feeling, or remorſe of Gods diſplea<g ref="char:EOLhyphen"/>ſure. In this ſleepe reſteth al idolaters obſtinate, dronken, couetous, enuious ſedicious, traiterous, adulterous, ſcla<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>derous, proud, and negligent perſons, that feele not, nor repent not, though they be ſunke downe euen to bottom and very dregs of theſe euils. Fro<g ref="char:cmbAbbrStroke">̄</g> this ſléepe the goſpel of Chriſt prouoketh, exeitateth &amp; ſtirreth, if obſtinacy haue not endured and made hard our harts And would haue vs to correct &amp; amend our ſelf, and idolatrical iudgement in religion from our wils, to honeſty and obedience, and to a new life, that we might be new creatures in the Lord, and to be ready to all ſeruice and obe<g ref="char:EOLhyphen"/>dience, both of God and his worde, that wee might haue a true olde and Patriarchall, Propheticall, and Apo<g ref="char:EOLhyphen"/>ſtolical faith, like feare, like loue, like obedience of the Magiſtrates, and like charitie, towardes all men. For all they that walke not in theſe ver<g ref="char:EOLhyphen"/>tues, ſleepe yet in their ſinnes, and ne<g ref="char:EOLhyphen"/>uer felt yet the light of the Goſpell,
+<pb facs="tcp:173575:22"/>whoſe meruaylouſe nature and con<g ref="char:EOLhyphen"/>dicion, <hi>S. Paul</hi> ſheweth in the wordes that follow.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>For now is our ſaluation, neerer then when we beleeued.</q>
+               </epigraph>
+               <p>AS though he had ſayd of congru<g ref="char:EOLhyphen"/>ence and decentneſſe, it is meete that we ſhould now liue honeſtly and Godly in all loue and obedience, for our ſaluation is now neerer vnto vs by the preaching of the Goſpel, which ſaueth vs by Chriſte, then it was be<g ref="char:EOLhyphen"/>fore time by preaching of the lawe or philoſophy, when wee thought to bee ſaued by the ceremonies and workes of them. Of this text of <hi>S. Paul,</hi> we ſee what is the nature and condition of al men,
+<note place="margin">
+                     <hi>Rom. 1.</hi>
+                  </note> that then they muſt truſt and hope whiles they be in a falſe religi<g ref="char:EOLhyphen"/>on, ſo did the <hi>Iewes</hi> ſeeke to bee ſaued, and required iuſtice of the Lawe. So did the Phariſes, and exalte themſel<g ref="char:EOLhyphen"/>ues aboue Chriſte and his Apoſtles. Therefore, Saint <hi>Paul</hi> ſaith heere, then when we beleeued, to ſay by the workes of the Lawe and the doctrine of men, we ſhould be ſaued. But this fayth was an errour and lye, for wee
+<pb facs="tcp:173575:22"/>know our ſaluation to be by the prea<g ref="char:EOLhyphen"/>ching of the goſpel.</p>
+               <p>The ſecond, we learn of theſe words is, that onely the goſpel ſheweth and openeth vnto vs our ſaluation, and doth not deceiue vs,
+<note place="margin">
+                     <hi>Luk. 24. Rom. 1.</hi>
+                  </note> and therefore it is called the power of God, to all that be<g ref="char:EOLhyphen"/>léeue. Let vs therefore imbrace and receiue this only goſpel obediently &amp; thankefully, which the Lord willed his apoſtles to teach vnto al the world and willed that their ſucceſſours ſhold doe the ſame, as they do neuer almoſt, the more pity. S. Paul tarrieth, and goeth foorth with his metaphore and figure, ſaying.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The text.</head>
+               <epigraph>
+                  <q>The night is paſſed, &amp; the dai is come nie.</q>
+               </epigraph>
+               <p>The night is called the time of falſe doctrine and ignorancie, in which men liue naughtily vnpuniſhed, wher as the trew light, Chriſt and his word is not preached, there y<hi rend="sup">e</hi> greteſt vertue is acompted vice, &amp; vice accompted for vertue, &amp; ſinnes rebuked, are excuſed &amp; extenuated. So is al true iudgement taken from the world, for in the night no man can iudg colours. In papiſtry
+<pb facs="tcp:173575:23"/>yée ſee matrimony iudged to be inceſt, the vſe of Gods creatures fleſhe &amp; ſuch like, to be hereſie. Againe, manifeſt i<g ref="char:EOLhyphen"/>dolatry taken for the honoring of god: Monkery, for perfit life: Whoredome, for mockery, and not worthy a halfe peny pardon, &amp;c. The day y<hi rend="sup">t</hi> 
+                  <hi>S. Paul</hi> ſpe<g ref="char:EOLhyphen"/>keth here of, is the time wherein the goſpel of Chriſt is opened to y<hi rend="sup">e</hi> world, the which bringeth not onely true do<g ref="char:EOLhyphen"/>ctrine, but alſo lyfe euerlaſting. For Chriſt is the light of the world. If the<g ref="char:cmbAbbrStroke">̄</g> Chriſt the very ſon and brightneſſe of God, hath illuminated vs, we muſte ſaith <hi>S. Paule</hi> diligently walk in him, and liue, an honeſt and vertuous life, as he exhorteth earneſtly in y<hi rend="sup">e</hi> wordes that followeth.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>Let vs therefore cast away the deedes of darkenes, and let vs put on the armour of lighte, as men walking honestly in the day light: not in eating &amp; drinking, nei<g ref="char:EOLhyphen"/>ther in chambring and wantonneſſe, nei<g ref="char:EOLhyphen"/>ther in strife and enuying.</q>
+               </epigraph>
+               <p>THis exhortation of <hi>S. Paul,</hi> co<g ref="char:cmbAbbrStroke">̄</g>ſiſteth in two partes, in the one, he ſhew<g ref="char:EOLhyphen"/>eth what we ſhold not do, in the other,
+<pb facs="tcp:173575:23"/>what we ſhould do.</p>
+               <p>The firſt, what we ſhould not, exhor<g ref="char:EOLhyphen"/>ting vs to caſt of the workes of darke<g ref="char:EOLhyphen"/>nes. Theſe workes be the ſinnes, we ſhould be aſhamed to do openly, and in the ſight of the worlde: and ſo they be called y<hi rend="sup">e</hi> ſins of darknes, becauſe they loue darknes, therefore Chriſt ſaith, this is the condemnation, y<hi rend="sup">e</hi> light is come into the worlde, and men loueth darknes, beter then light: their works were euil: euery man that doth euil, hateth the light, and commeth not to y<hi rend="sup">e</hi> light, leaſt his workes ſhould be rebu<g ref="char:EOLhyphen"/>ked. Such works pleaſant vnto dark<g ref="char:EOLhyphen"/>nes, <hi>S. Paule</hi> here willeth vs to caſt a<g ref="char:EOLhyphen"/>way. And y<hi rend="sup">e</hi> thing that we caſt away we haue not. As many therfore as ta<g ref="char:EOLhyphen"/>ry in theſe ſins, as long as he taryeth, he is no Chriſtian man.</p>
+               <p>The firſt thing that he exhorteth vs to do, is to put on the armour of light, that is to ſay, to worke good works, of the which we ſhould not be aſhamed, neither before God, neither man: but boldly &amp; honeſtly to walke in them. <hi>S. Paule</hi> calleth the firſt works of a chri<g ref="char:EOLhyphen"/>ſtian
+<pb facs="tcp:173575:24"/>man armour, by the name of warre, becauſe a chriſtian mans life, is a perpetual and a continuall fight, and battell againſt the Deuil, the world, the fleſh and ſinne: the crafts of the deuil be maruailous ſubtle, and dangerous, in caſe our heartes be not wel fenced with fruites in Chriſt Ie<g ref="char:EOLhyphen"/>ſu, and with feare we ſhoulde be ouer<g ref="char:EOLhyphen"/>come. And if he ſo do no remedy, except we repent, we ſhalbe the euerlaſting enemies of God, If in Chriſt we reſiſt and ouercome, we ſhal haue in him al the glory and honor that he hath won in heauen for vs,</p>
+               <p>
+                  <hi>S. Paule</hi> anexeth thrée capital &amp; dan<g ref="char:EOLhyphen"/>gerous euils, that we muſte eſchew, The firſt that we beware of inordinat eating &amp; drinking, Here is the abuſe of meates and drinkes forbidden, and not the meat and drink it ſelfe. From the which vices Chriſt himſelfe exhor<g ref="char:EOLhyphen"/>teth vs,
+<note place="margin">
+                     <hi>Luk. 22. Elai. 3.28. Pro. 23.</hi>
+                  </note> and <hi>Eſay</hi> the Prophet, and <hi>So<g ref="char:EOLhyphen"/>lomon</hi> in his Prouerbes.</p>
+               <p>The other Capital euil, is inconti<g ref="char:EOLhyphen"/>nent and vnchaſt liuing, by the which words, he condemneth al ſchortation,
+<pb facs="tcp:173575:24"/>adultry, and whooredome,
+<note place="margin">
+                     <hi>1. Cor. 6. Ephe. 5.</hi>
+                  </note> and al vn<g ref="char:EOLhyphen"/>cleanlines. And in remoouing of theſe incontinences he commendeth chaſt &amp; pure matrimony betwéen man &amp; wife</p>
+               <p>The third capital euil that we muſt auoid, is ſtrife and contention: againſt the which writeth <hi>S. Iames,</hi>
+                  <note place="margin">
+                     <hi>Cap. 3.</hi>
+                  </note> the which riſeth many times of the bitter zeale of him y<hi rend="sup">t</hi> is admoniſhed for his faults, againſt him that admoniſheth. How much this vice is contrary vnto chari<g ref="char:EOLhyphen"/>tie, <hi>S. Paule</hi> ſheweth, when he ſayth, if y<hi rend="sup">e</hi> one of you bite the other, take heede one conſume not y<hi rend="sup">e</hi> other. Where ſuch co<g ref="char:cmbAbbrStroke">̄</g>tentions &amp; ſtrifs be, there is no cha<g ref="char:EOLhyphen"/>ritie, <hi>S. Paule</hi> after theſe euils retur<g ref="char:EOLhyphen"/>neth againe to that we ſhoulde doe, ſaying.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>But put yee on the Lord Ieſus Christ.</q>
+               </epigraph>
+               <p>TO put on a thing figuratiuely ta<g ref="char:EOLhyphen"/>ken, is exactly and ſtudiouſly to fol<g ref="char:EOLhyphen"/>low and to purſue a thing. So he doth on <hi>Hercules</hi> perſon, that expreſſeth and ſheweth forth the facts of <hi>Hercules.</hi> So to put on Chriſt, is to acco<g ref="char:cmbAbbrStroke">̄</g>modate and apply our faith &amp; works to y<hi rend="sup">e</hi> exa<g ref="char:cmbAbbrStroke">̄</g>ple of his life &amp; doctrine, as he byddeth vs to
+<pb facs="tcp:173575:25"/>beleeue, ſo to beléeue: as he biddeth vs to worke, euen ſo to worke: and not to follow our own imagination. <hi>S, Paule</hi> concludeth the Chapter, with a leſſon which we ſhould auoyd and eſchew.</p>
+            </div>
+            <div type="verse_excerpt">
+               <head>The Text.</head>
+               <epigraph>
+                  <q>And do not the cares of the fleſhe, to ful<g ref="char:EOLhyphen"/>fill them.</q>
+               </epigraph>
+               <p>THat is to ſay, do not the thing that the fleſhe ſwadeth and would haue thee to doe, neither liue not after the affection of the fleſh. This is the ſum and concluſion of a Chriſtian life, that we follow not the luſtes and deſires of our corrupt nature. The neceſſi<g ref="char:EOLhyphen"/>ties of our fleſh, we muſt helpe, that it may ſerue vs, and not we it, as the Lorde giue vs grace to doe.</p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
